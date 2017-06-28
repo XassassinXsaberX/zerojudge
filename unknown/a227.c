@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/* 典型的河內塔問題  */ 
+
 void recursion(char start,char mid,char end,int ring)
 {
 	if(ring==1)   
