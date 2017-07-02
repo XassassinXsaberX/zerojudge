@@ -10,7 +10,7 @@ d406
 a227 (河內塔)  
 
 ### 排序
-a233(qsort function in C)
+a233 (qsort function in C)
 
 ### STL
-a541(map)
+a541 (map)
