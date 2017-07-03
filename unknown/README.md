@@ -12,7 +12,12 @@ a227 (河內塔)
 
 
 ### 排序
-a233 (qsort function in C)
+a233 (qsort function in C)  
+
+
+### 質數  
+a007 (質數表)  
+
 
 ### STL
 a541 (map)
