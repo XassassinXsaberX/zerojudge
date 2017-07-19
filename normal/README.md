@@ -17,6 +17,10 @@ b981 (sscanf)
 d526 (binary search tree + preorder traversal)  
 
 
+### 排序
+a104 (bubble sort)  
+
+
 
 ### STL
 b938 (set)  
