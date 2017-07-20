@@ -11,6 +11,7 @@ b923
 
 ### 字串
 b981 (sscanf)  
+b981 (sscanf)  
 
 
 ### binary tree
