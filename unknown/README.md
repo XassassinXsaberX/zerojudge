@@ -2,9 +2,12 @@
 
 ### DFS
 a160  
+a290
 
 ### BFS
-d406
+a290  
+d406  
+
 
 ### 遞迴
 a219 (組合(Combination))  
@@ -18,6 +21,9 @@ a233 (qsort function in C)
 
 ### 質數  
 a007 (質數表)  
+
+### 圖論
+a290 (adjacency matrix)
 
 
 ### STL
