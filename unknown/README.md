@@ -2,10 +2,10 @@
 
 ### DFS
 a160  
-a290
+a290 (adjacency matrix)  
 
 ### BFS
-a290  
+a290 (adjacency matrix)  
 d406  
 
 
@@ -23,8 +23,9 @@ a233 (qsort function in C)
 a007 (質數表)  
 
 ### 圖論
-a290 (adjacency matrix)  
 a129 (minimum spanning tree using Kruskal or Prim algorithm)  
+a290 (adjacency matrix)  
+a552 (adjacency matrix + topology sort(拓墣排序))  
 
 
 
