@@ -3,7 +3,8 @@
 
 /*練習對已排序好的數列進行 binary search*/
 
-int binary_search(int*arr,int value,int n);
+int binary_search(int*arr,int value,int n);  
+int recursion_binary_search(int*arr,int value,int left,int right); // 遞迴版的binary search 
 
 int main()
 {
@@ -20,7 +21,8 @@ int main()
 		for(i=0;i<k;i++)
 		{
 			scanf("%d",&value);
-			printf("%d\n",binary_search(arr,value,n));
+			//printf("%d\n",binary_search(arr,value,n));
+			printf("%d\n",recursion_binary_search(arr,value,0,n));
 		}	
 				
 		
@@ -55,6 +57,29 @@ int binary_search(int*arr,int value,int n)
 			return 0;	           // 則回傳0 
 	}
 	
+}
+
+//遞迴版的binary search 
+int recursion_binary_search(int*arr,int value,int left,int right)
+{
+	//arr為已從小到大排序好的陣列
+    //value為要搜尋的值
+    //left代表搜尋的起點位置 
+    //right代表搜尋的終點位置 
+	int mid = (left+right) / 2;//代表中間位置 
+	int i,j,k;
+	
+	if(left>=right) //代表沒有元素可搜尋了 
+		return 0;
+		
+	if(arr[mid] == value) //如果有搜尋到元素時 
+		return mid+1;
+	else if(arr[mid] < value) // 如果arr陣列的中間值 < value 
+		return recursion_binary_search(arr,value,mid+1,right); // 改成搜尋陣列的後半部分
+	else if(arr[mid] > value) // 如果arr陣列的中間值 > value 
+		return recursion_binary_search(arr,value,left,mid); // 改成搜尋陣列的前半部分
+	
+
 }
 
 

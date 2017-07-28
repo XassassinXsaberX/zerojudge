@@ -29,7 +29,7 @@ d550 (Object-oriented programming(OOP) + sort function in STL)
 
 
 ### 搜尋
-d732 (binary search)  
+d732 (binary search 遞迴 or 非遞迴版)  
 
 
 
