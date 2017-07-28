@@ -54,22 +54,22 @@ void quick_sort(int*arr,int left,int right)
 		
 	// 安砞じ琌璶眖逼 
 	// 玥е硉逼膀セ弘碞琌∕﹚膀非pivot
-	// 璶―よ璶膀非オよ璶膀非  
+	// 璶―オよ璶膀非よ璶膀非  
 	while(1)
 	{
-		while(1)  //眖程オよ秨﹍┕碝тゑpivotじ  (ヘ琌絋玂よ常膀非)
+		while(1)  //眖程オよ秨﹍┕碝тゑpivotじ  (ヘ琌絋玂オよ常膀非)
 		{
 			if(arr[i]>pivot || i>j)
 				break;
 			i++;
 		}
-		while(1)  //眖程よ秨﹍┕オ碝тゑpivotじ  (ヘ琌絋玂オよ常膀非) 
+		while(1)  //眖程よ秨﹍┕オ碝тゑpivotじ  (ヘ琌絋玂よ常膀非) 
 		{
 			if(arr[j]<pivot || i>j)
 				break;
 			j--;	
 		}
-		if(i<j)  //璝i<jarr[i] > arr[j] (オよよ)璶秈︽じユ传絋玂オよよ 
+		if(i<j)  //璝i<jarr[i] > arr[j] (オよよ)璶秈︽じユ传絋玂オよよ 
 			swap(&arr[i],&arr[j]);
 		else if(i>j) //苯磞挡 
 		{

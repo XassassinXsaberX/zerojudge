@@ -41,6 +41,7 @@ void merge_sort(int*arr,int *temp,int n)
 	int mid = n/2;
 	int i,j,k;
 	
+	//若陣列中只有一個元素，則不做排序 
 	if(n <= 1)
 		return ;
 	
@@ -63,8 +64,8 @@ void merge_sort(int*arr,int *temp,int n)
 		}
 		for(;j<n;j++)
 		{
-			if(arr[j]<=arr[i] || i>=mid) // 若第二堆的某一個元素<=第二堆，或是第一堆的元素已全部丟到temp陣列中的情況時  則
-				temp[k++] = arr[j];      // 將第二堆的該元素丟到temp陣列中 
+			if(arr[j]<=arr[i] || i>=mid) // 若第二堆的某一個元素<=第一堆，或是第一堆的元素已全部丟到temp陣列中的情況時 
+				temp[k++] = arr[j];      // 則將第二堆的該元素丟到temp陣列中 
 			else
 				break;
 		}
@@ -73,7 +74,7 @@ void merge_sort(int*arr,int *temp,int n)
 				
 	}
 	
-	//現在temp陣列中都是以排序好的元素，將temp陣列中的元素複製到arr陣列中吧 
+	//現在temp陣列中都是已排序好的元素，將temp陣列中的元素複製到arr陣列中吧 
 	for(i=0;i<n;i++)
 		arr[i] = temp[i];
 	
