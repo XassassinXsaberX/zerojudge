@@ -35,7 +35,7 @@ int main()
 	return 0; 
 }
  
-//膀非程よе硉逼 
+//膀非程オよе硉逼 
 void quick_sort(int*arr,int left,int right)
 {
 	int i,j,k;
