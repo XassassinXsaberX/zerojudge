@@ -22,6 +22,7 @@ d526 (binary search tree + preorder traversal)
 a104 (bubble sort)  
 a104 (insertion sort)  
 a104 (selection sort)  
+a104 (quick sort)  
 d550 (Object-oriented programming(OOP) + sort function in STL)  
 
 
