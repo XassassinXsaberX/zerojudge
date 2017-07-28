@@ -20,6 +20,7 @@ d526 (binary search tree + preorder traversal)
 
 ### 排序
 a104 (bubble sort)  
+a104 (heap sort)  
 a104 (insertion sort)  
 a104 (merge sort)  
 a104 (quick sort)  
