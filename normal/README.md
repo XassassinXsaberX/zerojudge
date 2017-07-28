@@ -28,5 +28,10 @@ a104 (selection sort)
 d550 (Object-oriented programming(OOP) + sort function in STL)  
 
 
+### 搜尋
+d732 (binary search)  
+
+
+
 ### STL
 b938 (set)  
