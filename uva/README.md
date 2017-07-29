@@ -24,5 +24,5 @@ a469 (list container in STL + 遞迴的排列問題)
  d038  
 
 ### STL
- a469 (list + 遞迴)
- d190 (vector + sort)
+ a469 (list + 遞迴)  
+ d190 (vector + sort)  
