@@ -21,4 +21,8 @@ a469 (list container in STL + 遞迴的排列問題)
  
 
 ### 動態規劃(DP)
- d038
+ d038  
+
+### STL
+ a469 (list + 遞迴)
+ d190 (vector + sort)
