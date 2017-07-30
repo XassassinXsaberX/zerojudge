@@ -1,32 +1,31 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*典型的河內塔問題*/ 
+//典型的河內塔問題
 
-void recursion(char start,char mid,char end,int ring)
-{
-	if(ring==1)   
-		printf("Move ring %d from %c to %c\n",ring,start,end);
-	else
-	{	
-
-		recursion(start,end,mid,ring-1);
-		printf("Move ring %d from %c to %c\n",ring,start,end);
-		recursion(mid,start,end,ring-1);
-	}
-
-	
-}
+void recursion(int N,char start,char mid,char end);
 
 int main()
 {
 	int N;
+	int i,j;
 	while(scanf("%d",&N)!=EOF)
 	{
-		recursion('A','B','C',N);
-
-		printf("\n");
+		recursion(N,'A','B','C');
 	}
 	return 0;
+}
+
+void recursion(int N,char start,char mid,char end)
+{
+	if(N==1)
+		printf("Move ring 1 from %c to %c\n",start,end);
+	else
+	{
+		recursion(N-1,start,end,mid);
+		printf("Move ring %d from %c to %c\n",N,start,end);
+		recursion(N-1,mid,start,end);
+	
+	}
 }
 
