@@ -37,6 +37,7 @@ a175 (hash function:mod + vector、set container)
 a174 (vector + list)  
 a175 (vector + set)  
 a541 (map)  
+d518 (map)  
 d713 (multiset)  
 
 
