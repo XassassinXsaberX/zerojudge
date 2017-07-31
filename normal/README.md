@@ -3,6 +3,7 @@
 ### 遞迴  
 [a024](https://zerojudge.tw/ShowProblem?problemid=a024) (GCD)  
 [a229](https://zerojudge.tw/ShowProblem?problemid=a229)  
+[a524](https://zerojudge.tw/ShowProblem?problemid=a524) (排列組合的"反向字典順序排列")  
 
 
 ### 堆疊
