@@ -2,9 +2,9 @@
 
 ### 遞迴  
 [[a024]](https://zerojudge.tw/ShowProblem?problemid=a024)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/normal/a024.cpp) (GCD)  
-[[a229]](https://zerojudge.tw/ShowProblem?problemid=a229)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/normal/a229.c)
+[[a229]](https://zerojudge.tw/ShowProblem?problemid=a229)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/normal/a229.c)  
 [[a524]](https://zerojudge.tw/ShowProblem?problemid=a524)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/normal/a524.c) (排列組合的"反向字典順序排列")  
-[d115](https://zerojudge.tw/ShowProblem?problemid=d115)[解答](https://github.com/XassassinXsaberX/zerojudge/blob/master/normal/d115.c) (qsort + 利用遞迴選擇元素)    
+[[d115]](https://zerojudge.tw/ShowProblem?problemid=d115)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/normal/d115.c) (qsort + 利用遞迴選擇元素)  
 
 
 ### 堆疊
