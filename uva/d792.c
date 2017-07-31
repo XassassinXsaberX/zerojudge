@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+§Q¥ÎFloyd-Warshall algorithm§äshortest path
+*/
+
 void floyd(int A[100][100],int adj_matrix[100][100],int N);
 
 int main()
