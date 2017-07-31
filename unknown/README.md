@@ -1,44 +1,44 @@
 ﻿## 說明
 
 ### DFS
-[a160](https://zerojudge.tw/ShowProblem?problemid=a160)  
-[a290](https://zerojudge.tw/ShowProblem?problemid=a290) (adjacency matrix)  
+[[a160]](https://zerojudge.tw/ShowProblem?problemid=a160)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a160.c)  
+[[a290]](https://zerojudge.tw/ShowProblem?problemid=a290)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a290.c) (adjacency matrix)  
 
 ### BFS
-[a290](https://zerojudge.tw/ShowProblem?problemid=a290) (adjacency matrix)  
-[d406](https://zerojudge.tw/ShowProblem?problemid=d406)  
+[[a290]](https://zerojudge.tw/ShowProblem?problemid=a290)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a290.c) (adjacency matrix)  
+[[d406]](https://zerojudge.tw/ShowProblem?problemid=d406)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/d406.c)  
 
 
 ### 遞迴
-[a219](https://zerojudge.tw/ShowProblem?problemid=a219) (組合(Combination))  
-[a227](https://zerojudge.tw/ShowProblem?problemid=a227) (河內塔)  
-[d486](https://zerojudge.tw/ShowProblem?problemid=d486)  
+[[a219]](https://zerojudge.tw/ShowProblem?problemid=a219)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a219.c) (組合(Combination))  
+[[a227]](https://zerojudge.tw/ShowProblem?problemid=a227)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a227.c) (河內塔)  
+[[d486]](https://zerojudge.tw/ShowProblem?problemid=d486)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/d486.c)  
 
 
 ### 排序
-[a233](https://zerojudge.tw/ShowProblem?problemid=a233) (qsort function in C)  
+[[a233]](https://zerojudge.tw/ShowProblem?problemid=a233)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a233.c) (qsort function in C)  
 
 
 ### 質數  
-[a007](https://zerojudge.tw/ShowProblem?problemid=a007) (質數表)  
+[[a007]](https://zerojudge.tw/ShowProblem?problemid=a007)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a007.cpp) (質數表)  
 
 
 ### 圖論
-[a129](https://zerojudge.tw/ShowProblem?problemid=a129) (minimum spanning tree using Kruskal or Prim algorithm)  
-[a290](https://zerojudge.tw/ShowProblem?problemid=a290) (adjacency matrix)  
-[a552](https://zerojudge.tw/ShowProblem?problemid=a552) (adjacency matrix + topology sort(拓墣排序))  
+[[a129]](https://zerojudge.tw/ShowProblem?problemid=a129)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a129.cpp) (minimum spanning tree using Kruskal or Prim algorithm)  
+[[a290]](https://zerojudge.tw/ShowProblem?problemid=a290)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a290.c) (adjacency matrix)  
+[[a552]](https://zerojudge.tw/ShowProblem?problemid=a552)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a552.c) (adjacency matrix + topology sort(拓墣排序))  
 
 
 ### hash table
-[a174](https://zerojudge.tw/ShowProblem?problemid=a174) (hash function:mod + vector、list container)   
-[a175](https://zerojudge.tw/ShowProblem?problemid=a175) (hash function:mod + vector、set container)  
+[[a174]](https://zerojudge.tw/ShowProblem?problemid=a174)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a174.cpp) (hash function:mod + vector、list container)   
+[[a175]](https://zerojudge.tw/ShowProblem?problemid=a175)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a175.cpp) (hash function:mod + vector、set container)  
 
 ### STL
-[a174](https://zerojudge.tw/ShowProblem?problemid=a174) (vector + list)  
-[a175](https://zerojudge.tw/ShowProblem?problemid=a175) (vector + set)  
-[a541](https://zerojudge.tw/ShowProblem?problemid=a541) (map)  
-[d518](https://zerojudge.tw/ShowProblem?problemid=d518) (map)  
-[d713](https://zerojudge.tw/ShowProblem?problemid=d713) (multiset)  
-[d885](https://zerojudge.tw/ShowProblem?problemid=d885) (map)  
+[[a174]](https://zerojudge.tw/ShowProblem?problemid=a174)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a174.cpp) (vector + list)  
+[[a175]](https://zerojudge.tw/ShowProblem?problemid=a175)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a175.cpp) (vector + set)  
+[[a541]](https://zerojudge.tw/ShowProblem?problemid=a541)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a541.cpp) (map)  
+[[d518]](https://zerojudge.tw/ShowProblem?problemid=d518)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/d518.cpp) (map)  
+[[d713]](https://zerojudge.tw/ShowProblem?problemid=d713)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/d713.cpp) (multiset)  
+[[d885]](https://zerojudge.tw/ShowProblem?problemid=d885)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/d885.cpp) (map)  
 
 
