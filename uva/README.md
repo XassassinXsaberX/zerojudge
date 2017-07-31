@@ -10,6 +10,9 @@
 ### linked list
  [[a469]](https://zerojudge.tw/ShowProblem?problemid=a469)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/a469.cpp) (list container in STL + 遞迴的排列問題)  
 
+### 數論
+ [[c203]](https://zerojudge.tw/ShowProblem?problemid=c203)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/c203.c) (因數)  
+
 
 ### sort  
  [[d190]](https://zerojudge.tw/ShowProblem?problemid=d190)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/d190.cpp) (vector容器 + sort function in STL)  

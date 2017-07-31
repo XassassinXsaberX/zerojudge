@@ -19,7 +19,7 @@
 [[a233]](https://zerojudge.tw/ShowProblem?problemid=a233)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a233.c) (qsort function in C)  
 
 
-### 質數  
+### 數論  
 [[a007]](https://zerojudge.tw/ShowProblem?problemid=a007)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a007.cpp) (質數表)  
 
 
