@@ -12,6 +12,7 @@
 
 ### 數論
  [[c203]](https://zerojudge.tw/ShowProblem?problemid=c203)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/c203.c) (因數)  
+ [[d439]](https://zerojudge.tw/ShowProblem?problemid=d439)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/d439.c) (質數表 + dp)  
 
 
 ### sort  
@@ -27,6 +28,8 @@
 
 ### 動態規劃(DP)
  [[d038]](https://zerojudge.tw/ShowProblem?problemid=d038)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/d038.c)  
+ [[d439]](https://zerojudge.tw/ShowProblem?problemid=d439)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/d439.c) (質數表 + dp)  
+
 
 ### STL
  [[a469]](https://zerojudge.tw/ShowProblem?problemid=a469)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/a469.cpp) (list + 遞迴)  
