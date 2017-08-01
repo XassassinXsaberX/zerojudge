@@ -5,3 +5,6 @@
 
 ### 堆疊
  [[a565]](https://zerojudge.tw/ShowProblem?problemid=a565)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/contest/a565.c)  
+
+### 數論
+ [[b513]](https://zerojudge.tw/ShowProblem?problemid=b513)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/contest/b513.c) (質數表)  
