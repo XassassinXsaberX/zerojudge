@@ -35,6 +35,10 @@
 [[d732]](https://zerojudge.tw/ShowProblem?problemid=d732)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/normal/d732.c) (binary search 遞迴 or 非遞迴版)  
 
 
+### bitwise operation
+[[d326]](https://zerojudge.tw/ShowProblem?problemid=d326)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/normal/d326.c)  
+
+
 
 ### STL
 [[b938]](https://zerojudge.tw/ShowProblem?problemid=b938)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/normal/b938.cpp) (set)  
