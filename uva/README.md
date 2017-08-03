@@ -1,5 +1,8 @@
 ﻿## 說明
 
+### if else
+ [[d095]](https://zerojudge.tw/ShowProblem?problemid=d095)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/d095.c) (面試考古題)  
+
 ### binary tree
  [[c126]](https://zerojudge.tw/ShowProblem?problemid=c126)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/c126.c) (postorder traversal) 
 
