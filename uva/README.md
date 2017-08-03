@@ -12,7 +12,9 @@
 
 ### 數論
  [[c203]](https://zerojudge.tw/ShowProblem?problemid=c203)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/c203.c) (因數)  
+ [[d121]](https://zerojudge.tw/ShowProblem?problemid=d121)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/d121.cpp) (質數表)  
  [[d439]](https://zerojudge.tw/ShowProblem?problemid=d439)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/d439.c) (質數表 + dp)  
+
 
 
 ### sort  
