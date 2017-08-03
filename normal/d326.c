@@ -10,9 +10,9 @@ int main()
 	while(scanf("%d %d %d",&v,&a,&b)!=EOF)
 	{
 		if(b==0)
-			v &= ~(1<<a);   //將從右數到左，第a個bit設為1 
+			v &= ~(1<<a);   //將從右數到左，第a個bit設為0
 		else
-			v |= (1<<a);    //將從左數到右，第a個bit設為0 
+			v |= (1<<a);    //將從左數到右，第a個bit設為1
 		//補充一下，若要將從左數到右，第a個bit做inverse(即bit1變bit0，bit0變bit1) 
 		//則程式為
 		//v ^= (1<<a); 
