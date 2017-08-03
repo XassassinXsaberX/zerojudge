@@ -27,6 +27,10 @@
  [[d793]](https://zerojudge.tw/ShowProblem?problemid=d793)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/d793.cpp) (shortest path + dijkstra algorithm)  
  
 
+### bitwise operation
+ [[d306]](https://zerojudge.tw/ShowProblem?problemid=d306)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/d306.c) (0、1字串轉數字)  
+
+
 ### 動態規劃(DP)
  [[d038]](https://zerojudge.tw/ShowProblem?problemid=d038)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/d038.c)  
  [[d439]](https://zerojudge.tw/ShowProblem?problemid=d439)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/d439.c) (質數表 + dp)  
