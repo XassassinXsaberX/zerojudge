@@ -8,6 +8,7 @@
 
 ### 遞迴
  [[a469]](https://zerojudge.tw/ShowProblem?problemid=a469)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/a469.cpp) (linked list + 排列問題)  
+ [[c002]](https://zerojudge.tw/ShowProblem?problemid=c002)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/c002.cpp)  
 
 
 ### linked list
