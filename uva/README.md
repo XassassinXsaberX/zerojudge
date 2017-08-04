@@ -11,6 +11,10 @@
  [[c002]](https://zerojudge.tw/ShowProblem?problemid=c002)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/c002.cpp)  
 
 
+### bfs
+ [[d191]](https://zerojudge.tw/ShowProblem?problemid=d191)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/d191.cpp)  
+
+
 ### linked list
  [[a469]](https://zerojudge.tw/ShowProblem?problemid=a469)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/a469.cpp) (list container in STL + 遞迴的排列問題)  
 
@@ -47,3 +51,4 @@
 ### STL
  [[a469]](https://zerojudge.tw/ShowProblem?problemid=a469)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/a469.cpp) (list + 遞迴)  
  [[d190]](https://zerojudge.tw/ShowProblem?problemid=d190)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/d190.cpp) (vector + sort)  
+ [[d191]](https://zerojudge.tw/ShowProblem?problemid=d191)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/d191.cpp) (vector + deque + bfs)  
