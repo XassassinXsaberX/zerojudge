@@ -45,6 +45,7 @@
 
 ### 動態規劃(DP)
  [[d038]](https://zerojudge.tw/ShowProblem?problemid=d038)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/d038.c)  
+ [[d206]](https://zerojudge.tw/ShowProblem?problemid=d206)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/d206.c) (maximum subarray 2D)  
  [[d439]](https://zerojudge.tw/ShowProblem?problemid=d439)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/d439.c) (質數表 + dp)  
 
 
