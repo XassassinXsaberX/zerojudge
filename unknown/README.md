@@ -33,6 +33,11 @@
 [[a174]](https://zerojudge.tw/ShowProblem?problemid=a174)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a174.cpp) (hash function:mod + vector、list container)   
 [[a175]](https://zerojudge.tw/ShowProblem?problemid=a175)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a175.cpp) (hash function:mod + vector、set container)  
 
+
+### DP(動態規劃)
+[[a587]](https://zerojudge.tw/ShowProblem?problemid=a587)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a587.cpp) (Bounded Knapsack Problem)  
+
+
 ### STL
 [[a174]](https://zerojudge.tw/ShowProblem?problemid=a174)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a174.cpp) (vector + list)  
 [[a175]](https://zerojudge.tw/ShowProblem?problemid=a175)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a175.cpp) (vector + set)  
