@@ -29,6 +29,7 @@
 
 ### sort  
  [[d190]](https://zerojudge.tw/ShowProblem?problemid=d190)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/d190.cpp) (vector容器 + sort function in STL)  
+ [[d542]](https://zerojudge.tw/ShowProblem?problemid=d542)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/d542.c)  
  [[d750]](https://zerojudge.tw/ShowProblem?problemid=d750)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/d750.c) (qsort function)  
 
 
