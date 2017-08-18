@@ -11,4 +11,5 @@
 
 ### DP(動態規劃)
  [[a252]](https://zerojudge.tw/ShowProblem?problemid=a252)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/contest/a252.cpp) (Longest Common Subsequence(LCS) (3個字串版))  
+ [[b184]](https://zerojudge.tw/ShowProblem?problemid=b184)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/contest/b184.cpp) (0/1 Knapsack Problem)  
  [[d784]](https://zerojudge.tw/ShowProblem?problemid=d784)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/contest/d784.c) (maximum subarray)  
