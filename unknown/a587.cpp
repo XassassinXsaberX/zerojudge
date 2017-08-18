@@ -2,7 +2,7 @@
 #define INFINITE 100000000
 
 /*
-Bounded Knapsack Problem
+0/1 Knapsack Problem
 */ 
 
 using namespace std;

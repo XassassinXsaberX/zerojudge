@@ -35,7 +35,7 @@
 
 
 ### DP(動態規劃)
-[[a587]](https://zerojudge.tw/ShowProblem?problemid=a587)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a587.cpp) (Bounded Knapsack Problem)  
+[[a587]](https://zerojudge.tw/ShowProblem?problemid=a587)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a587.cpp) (0/1 Knapsack Problem)  
 
 
 ### STL
