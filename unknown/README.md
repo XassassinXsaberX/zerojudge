@@ -12,6 +12,7 @@
 ### 遞迴
 [[a219]](https://zerojudge.tw/ShowProblem?problemid=a219)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a219.c) (組合(Combination))  
 [[a227]](https://zerojudge.tw/ShowProblem?problemid=a227)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a227.c) (河內塔)  
+[[a456]](https://zerojudge.tw/ShowProblem?problemid=a456)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a456.c) (組合問題)  
 [[d486]](https://zerojudge.tw/ShowProblem?problemid=d486)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/d486.c)  
 
 
