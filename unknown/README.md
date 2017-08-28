@@ -3,6 +3,8 @@
 ### DFS
 [[a160]](https://zerojudge.tw/ShowProblem?problemid=a160)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a160.c)  
 [[a290]](https://zerojudge.tw/ShowProblem?problemid=a290)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a290.c) (adjacency matrix)  
+[[d621]](https://zerojudge.tw/ShowProblem?problemid=d621)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/d621.c)  
+
 
 ### BFS
 [[a290]](https://zerojudge.tw/ShowProblem?problemid=a290)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a290.c) (adjacency matrix)  
