@@ -43,6 +43,10 @@
 [[b924]](https://zerojudge.tw/ShowProblem?problemid=b924)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/normal/b924.c) (圖形一筆畫問題)  
 
 
+### OOP(物件導向)
+[[b266]](https://zerojudge.tw/ShowProblem?problemid=b266)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/normal/b266.c) (陣列運算)  
+
+
 
 ### STL
 [[b938]](https://zerojudge.tw/ShowProblem?problemid=b938)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/normal/b938.cpp) (set)  
