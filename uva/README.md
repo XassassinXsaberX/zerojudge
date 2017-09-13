@@ -41,6 +41,7 @@
  
 
 ### bitwise operation
+ [[c222]](https://zerojudge.tw/ShowProblem?problemid=c222)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/c222.c) (xor)  
  [[d306]](https://zerojudge.tw/ShowProblem?problemid=d306)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/uva/d306.c) (0、1字串轉數字)  
 
 
