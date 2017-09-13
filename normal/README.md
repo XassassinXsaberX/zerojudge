@@ -44,7 +44,7 @@
 
 
 ### OOP(物件導向)
-[[b266]](https://zerojudge.tw/ShowProblem?problemid=b266)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/normal/b266.c) (陣列運算)  
+[[b266]](https://zerojudge.tw/ShowProblem?problemid=b266)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/normal/b266.cpp) (陣列運算)  
 
 
 
