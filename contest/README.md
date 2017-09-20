@@ -1,7 +1,14 @@
 ﻿## 說明
 
+### DFS
+ [[a634]](https://zerojudge.tw/ShowProblem?problemid=a634)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/contest/a634.c) (結合bfs+linked list)  
+
+### BFS
+ [[a634]](https://zerojudge.tw/ShowProblem?problemid=a634)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/contest/a634.c) (結合dfs+linked list)  
+
 ### linked list
  [[b586]](https://zerojudge.tw/ShowProblem?problemid=b586)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/contest/b586.c)  
+ [[a634]](https://zerojudge.tw/ShowProblem?problemid=a634)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/contest/a634.c) (結合dfs+bfs)  
 
 ### 堆疊
  [[a565]](https://zerojudge.tw/ShowProblem?problemid=a565)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/contest/a565.c)  
