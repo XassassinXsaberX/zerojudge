@@ -2,6 +2,8 @@
 
 ### DFS
  [[a634]](https://zerojudge.tw/ShowProblem?problemid=a634)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/contest/a634.c) (結合bfs+linked list)  
+ [[c252]](https://zerojudge.tw/ShowProblem?problemid=c252)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/contest/c252.c)  
+
 
 ### BFS
  [[a634]](https://zerojudge.tw/ShowProblem?problemid=a634)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/contest/a634.c) (結合dfs+linked list)  
