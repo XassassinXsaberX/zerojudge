@@ -24,6 +24,7 @@
 
 ### 數論  
 [[a007]](https://zerojudge.tw/ShowProblem?problemid=a007)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a007.cpp) (質數表)  
+[[a702]](https://zerojudge.tw/ShowProblem?problemid=a702)[[解答]](https://github.com/XassassinXsaberX/zerojudge/blob/master/unknown/a702.c) (質數表)  
 
 
 ### 圖論
